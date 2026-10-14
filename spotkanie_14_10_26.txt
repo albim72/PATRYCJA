@@ -1,0 +1,9 @@
+1. zinterpretuj zagrożenia dotyczące następującego artykułu prawnego
+
+AI Act art. 53: obowiązki dostawców modeli GPAI
+ wypisz też potencjalne wątpliwości prawne oraz wykonawcze dla twórców AI 
+na mają szczególnie uważać
+
+2. mam do zrobienia ważną rzecze.... pobrać aktualne dane walutowe z ostanich trzech miesięcy z NBP - dla walut: CHF, USD, EUR . Następnie stworzyć arkusz excela ... przenieść te dane do niego i zrobić wykresy szeregów czasowych opartych na zmianie waluty w czasie. Policz średni kurs waluty na każdy miesiąc.
+zrób to i wystaw mi do pobrania gotowy zeszyt.
+
